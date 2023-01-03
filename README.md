@@ -1,3 +1,15 @@
+# Stream 2023 Schedule
+## Monday thru Friday from 1:00 pm to 2:00 pm CST
+
+| Monday      | Tuesday | Wednesday      | Thursday | Friday | 
+| ----------- | ----------- | ----------- | ----------- | ----------- | 
+| Jan 2nd - OFF      | Jan 3rd - Lesson 01  | Jan 4th - Lesson 02 | Jan 5th - Lesson 03 | Jan 6th - Lesson 04 | 
+| Jan 9th - Lesson 05      | Jan 10th - Lesson 06  | Jan 11th - Lesson 07 | Jan 12th - Lesson 08 | Jan 13th - Lesson 09 |
+| Jan 16th - Lesson 10      | Jan 17th - Lesson 11  | Jan 18th - Lesson 12 | Jan 19th - Lesson 13 | Jan 20th - Lesson 14 | 
+| Jan 23rd - Lesson 15      | Jan 24th - Lesson 16  | Jan 25th - Lesson 17 | Jan 26th - Lesson 18 | Jan 27th - Lesson 19 | 
+| Jan 30th - Lesson 20      | Jan 31st - Lesson 21  | Feb 1st - Lesson 22 | Feb 2nd - Lesson 23 | Feb 3rd - Lesson 24 | 
+
+
 [![GitHub license](https://img.shields.io/github/license/microsoft/Web-Dev-For-Beginners.svg)](https://github.com/microsoft/Web-Dev-For-Beginners/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Web-Dev-For-Beginners.svg)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/microsoft/Web-Dev-For-Beginners.svg)](https://GitHub.com/microsoft/Web-Dev-For-Beginners/issues/)
