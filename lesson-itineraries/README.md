@@ -15,22 +15,28 @@ This folder contains the lesson itineraries for the 24 lessons of the course. Ea
 
 ## Logs
 
-### Monday January 2nd - OFF
+### Week 1
+
+#### January 2nd - OFF
 
 SNOW DAY! =)
 
-### Tuesday January 3rd - Lesson 01 - Programming Languages and the Web
+#### January 3rd - Lesson 01 - Programming Languages and the Web
 Introduction to the course, to Chris with Coding Curricula, markdown, programming languages, and Javascript/HTML/CSS and thank so much Microsoft for the opportunity to teach this open source material! =) 
 
-### Wednesday January 4th - Lesson 02 - Version Control
+#### January 4th - Lesson 02 - Version Control
 GitHub, Git, and Markdown
 
 Contributed a footer to the homepage
 
-### January 5th - Lesson 03 - Accessibility 
+#### January 5th - Lesson 03 - Accessibility 
 Created this log(s)
 Lecture for Accessibility and ARIA (Accessible Rich Internet Applications)
 
 Homepage - Add navbar with bootstrap and router links
 
-### January 6th - Lesson 04 - 
+#### January 6th - Lesson 04 - 
+
+### Week 2
+
+#### January 9th - Lesson 05 -
