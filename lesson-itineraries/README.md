@@ -17,7 +17,9 @@ This folder contains the lesson itineraries for the 24 lessons of the course. Ea
 
 ### Monday January 2nd - OFF
 
-Tuesday January 3rd - Lesson 01 - Programming Languages and the Web
+SNOW DAY! =)
+
+### Tuesday January 3rd - Lesson 01 - Programming Languages and the Web
 Introduction to the course, to Chris with Coding Curricula, markdown, programming languages, and Javascript/HTML/CSS and thank so much Microsoft for the opportunity to teach this open source material! =) 
 
 ### Wednesday January 4th - Lesson 02 - Version Control
