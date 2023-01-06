@@ -33,9 +33,20 @@ Contributed a footer to the homepage
 Created this log(s)
 Lecture for Accessibility and ARIA (Accessible Rich Internet Applications)
 
-Homepage - Add navbar with bootstrap and router links
+Homepage - Add navbar and footer with react bootstrap 
 
-#### January 6th - Lesson 04 - 
+#### January 6th - Lesson 04 - Data Types and Scope
+Update Logs
+Variable and Data types lecture
+Homepage - Add routing to the navbar and footer
+Add pages to the project:
+- About
+- Contact
+- Home
+- Blog
+- Projects
+- Resume
+- 404
 
 ### Week 2
 
