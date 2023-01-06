@@ -38,6 +38,14 @@ Homepage - Add navbar and footer with react bootstrap
 #### January 6th - Lesson 04 - Data Types and Scope
 Update Logs
 Variable and Data types lecture
+Homework - Shopping Cart Data Types
+- string - customer name
+- number - total price
+- array - items to be purchased
+- object - customer address
+- boolean - is the customer a member
+- function - calculate total price
+- undefined - empty cart
 Homepage - Add routing to the navbar and footer
 Add pages to the project:
 - About
