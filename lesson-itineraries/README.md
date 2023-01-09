@@ -58,4 +58,18 @@ Add pages to the project:
 
 ### Week 2
 
-#### January 9th - Lesson 05 -
+#### January 9th - Lesson 05 - Functions and Methods
+Update Logs
+Functions and Methods lecture
+Homepage - 
+    fix styling
+    make a link page
+    call to action 
+    remove styling from links
+
+FUTURE - stop cowboy coding 
+    plan out the UI/UX
+    set goals and deliverables for the project
+    google analytics
+
+#### January 10th - Lesson 06 - Making Decisions
