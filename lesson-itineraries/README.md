@@ -74,7 +74,9 @@ FUTURE - stop cowboy coding
 
 #### January 10th - Lesson 06 - Making Decisions - Conditional Statements
 Update Logs
+
 Conditional Statements from Microsoft Lecture
+
 Homepage - 
     update homepage images in carousel
     remove text decoration
