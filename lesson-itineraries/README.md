@@ -72,4 +72,10 @@ FUTURE - stop cowboy coding
     set goals and deliverables for the project
     google analytics
 
-#### January 10th - Lesson 06 - Making Decisions
+#### January 10th - Lesson 06 - Making Decisions - Conditional Statements
+Update Logs
+Conditional Statements from Microsoft Lecture
+Homepage - 
+    update homepage images in carousel
+    remove text decoration
+    add homepage information below our hero section 
