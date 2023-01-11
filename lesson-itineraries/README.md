@@ -72,7 +72,7 @@ FUTURE - stop cowboy coding
     set goals and deliverables for the project
     google analytics
 
-#### January 10th - Lesson 06 - Making Decisions - Conditional Statements
+#### January 10th - Lesson 06 - Making Decisions
 Update Logs
 
 Conditional Statements from Microsoft Lecture
@@ -81,3 +81,15 @@ Homepage -
     update homepage images in carousel
     remove text decoration
     add homepage information below our hero section 
+
+
+#### January 11th - Lesson 07 - Arrays and Loops
+
+Update Logs
+
+Arrays and Loops Lecture
+
+Homepage - 
+    font awesome icons
+    add lorem ipsum text
+    clean up the hero section - use a single image, style it with a hero button
