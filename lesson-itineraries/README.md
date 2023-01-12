@@ -93,3 +93,16 @@ Homepage -
     font awesome icons
     add lorem ipsum text
     clean up the hero section - use a single image, style it with a hero button
+
+#### January 12th - Lesson 08 - Introduction to HTML
+
+Update Logs
+
+Introduction to HTML Lecture
+
+Homepage - 
+    make icons larger
+    make carousel smaller - 60-80 vh
+    put bar under carousel
+    put button in the HERO section
+    Add blog page
