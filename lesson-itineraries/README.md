@@ -108,3 +108,16 @@ Homepage -
     put bar under carousel
     put button in the HERO section below text
     ensure mobile responsive
+
+#### January 13th - Lesson 09 - Introduction to CSS
+
+Intro to CSS Lecture
+
+Update Logs
+
+Homepage - 
+    - cards into social media links
+    - remove link page 
+    - divide hero in half
+    - style the about page
+    - put a form in the contact link
