@@ -102,7 +102,9 @@ Introduction to HTML Lecture
 
 Homepage - 
     make icons larger
+    add fourth card - documentation
     make carousel smaller - 60-80 vh
+    cut image from carousel
     put bar under carousel
-    put button in the HERO section
-    Add blog page
+    put button in the HERO section below text
+    ensure mobile responsive
