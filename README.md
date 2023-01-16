@@ -3,7 +3,7 @@
 
 | Monday      | Tuesday | Wednesday      | Thursday | Friday | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | 
-| Jan 2nd - OFF | Jan 3rd - Lesson 01  | Jan 4th - Lesson 02 | Jan 5th - Lesson 03 | Jan 6th - Lesson 04 | 
+| Jan 2nd - OFF <br> HAPPY NEW YEAR | Jan 3rd - Lesson 01 <br> Intro to Programming | Jan 4th - Lesson 02 <br> Intro to GitHub | Jan 5th - Lesson 03 <br> Accessibility | Jan 6th - Lesson 04 <br> Data Types | 
 | Jan 9th - Lesson 05 | Jan 10th - Lesson 06  | Jan 11th - Lesson 07 | Jan 12th - Lesson 08 | Jan 13th - Lesson 09 |
 | Jan 16th - Lesson 10 | Jan 17th - Lesson 11  | Jan 18th - Lesson 12 | Jan 19th - Lesson 13 | Jan 20th - Lesson 14 | 
 | Jan 23rd - Lesson 15 | Jan 24th - Lesson 16  | Jan 25th - Lesson 17 | Jan 26th - Lesson 18 | Jan 27th - Lesson 19 | 

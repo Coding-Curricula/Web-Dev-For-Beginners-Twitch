@@ -121,3 +121,14 @@ Homepage -
     - divide hero in half
     - style the about page
     - put a form in the contact link
+
+#### January 16th - Lesson 10 - JavaScript Closures
+
+Update Logs
+
+JavaScript Closures - Terrarium Project
+
+Homepage - 
+ - Clean up card text
+ - Add an about page - even an empty template!
+ - contact form component
