@@ -118,9 +118,9 @@ Update Logs
 Homepage - 
     - cards into social media links
     - remove link page 
-    - divide hero in half
-    - style the about page
-    - put a form in the contact link
+    - divide hero in half x
+    - style the about page x
+    - put a form in the contact link x
 
 #### January 16th - Lesson 10 - JavaScript Closures
 
@@ -130,5 +130,19 @@ JavaScript Closures - Terrarium Project
 
 Homepage - 
  - Clean up card text
- - Add an about page - even an empty template!
- - contact form component
+ - Add an about page - even an empty template! 
+ - contact form component x
+
+ #### January 17th - Lesson 11 - Event Driven Programming
+
+ Updated Schedule
+
+ Update Logs
+
+ Event Driven Lecture
+
+ Homepage - 
+ - fix tab icon
+ - Add icon to navbar
+ - set min/max heights on cards
+ - about page: about us, about me, current project, icon section, past projects
