@@ -4,10 +4,10 @@
 | Monday      | Tuesday | Wednesday      | Thursday | Friday | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | 
 | Jan 2nd - OFF <br> HAPPY NEW YEAR | Jan 3rd - Lesson 01 <br> Intro to Programming | Jan 4th - Lesson 02 <br> Intro to GitHub | Jan 5th - Lesson 03 <br> Accessibility | Jan 6th - Lesson 04 <br> Data Types | 
-| Jan 9th - Lesson 05 | Jan 10th - Lesson 06  | Jan 11th - Lesson 07 | Jan 12th - Lesson 08 | Jan 13th - Lesson 09 |
-| Jan 16th - Lesson 10 | Jan 17th - Lesson 11  | Jan 18th - Lesson 12 | Jan 19th - Lesson 13 | Jan 20th - Lesson 14 | 
-| Jan 23rd - Lesson 15 | Jan 24th - Lesson 16  | Jan 25th - Lesson 17 | Jan 26th - Lesson 18 | Jan 27th - Lesson 19 | 
-| Jan 30th - Lesson 20 | Jan 31st - Lesson 21  | Feb 1st - Lesson 22 | Feb 2nd - Lesson 23 | Feb 3rd - Lesson 24 | 
+| Jan 9th - Lesson 05 <br> Functions and Methods | Jan 10th - Lesson 06  <br> Making Decisions | Jan 11th - Lesson 07 <br> Arrays and Loops | Jan 12th - Lesson 08 <br> HTML | Jan 13th - Lesson 09 <br> CSS|
+| Jan 16th - Lesson 10 <br> JS Closures | Jan 17th - Lesson 11  <br>  Event Driven Programming | Jan 18th - Lesson 12 <br> About Browsers | Jan 19th - Lesson 13 <br> APIs, Forms, and Local Storage | Jan 20th - Lesson 14 <br> Background Tasks and Performance| 
+| Jan 23rd - Lesson 15 <br> Intro to Game Development | Jan 24th - Lesson 16  <br> Drawing to Canvas | Jan 25th - Lesson 17 <br> Moving Elements Around | Jan 26th - Lesson 18 <br> Collision Detection | Jan 27th - Lesson 19 <br> Keeping Score | 
+| Jan 30th - Lesson 20 <br> The Ending Condition | Jan 31st - Lesson 21  <br> HTML Templates and Routes | Feb 1st - Lesson 22 <br> Forms | Feb 2nd - Lesson 23 <br> Data | Feb 3rd - Lesson 24 <br> State Management | 
 
 
 [![GitHub license](https://img.shields.io/github/license/microsoft/Web-Dev-For-Beginners.svg)](https://github.com/microsoft/Web-Dev-For-Beginners/blob/master/LICENSE)
