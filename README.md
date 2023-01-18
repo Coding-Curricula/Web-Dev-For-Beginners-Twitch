@@ -3,11 +3,11 @@
 
 | Monday      | Tuesday | Wednesday      | Thursday | Friday | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | 
-| Jan 2nd - OFF <br> HAPPY NEW YEAR | Jan 3rd - Lesson 01 <br> Intro to Programming | Jan 4th - Lesson 02 <br> Intro to GitHub | Jan 5th - Lesson 03 <br> Accessibility | Jan 6th - Lesson 04 <br> Data Types | 
-| Jan 9th - Lesson 05 <br> Functions and Methods | Jan 10th - Lesson 06  <br> Making Decisions | Jan 11th - Lesson 07 <br> Arrays and Loops | Jan 12th - Lesson 08 <br> HTML | Jan 13th - Lesson 09 <br> CSS|
-| Jan 16th - Lesson 10 <br> JS Closures | Jan 17th - Lesson 11  <br>  Event Driven Programming | Jan 18th - Lesson 12 <br> About Browsers | Jan 19th - Lesson 13 <br> APIs, Forms, and Local Storage | Jan 20th - Lesson 14 <br> Background Tasks and Performance| 
-| Jan 23rd - Lesson 15 <br> Intro to Game Development | Jan 24th - Lesson 16  <br> Drawing to Canvas | Jan 25th - Lesson 17 <br> Moving Elements Around | Jan 26th - Lesson 18 <br> Collision Detection | Jan 27th - Lesson 19 <br> Keeping Score | 
-| Jan 30th - Lesson 20 <br> The Ending Condition | Jan 31st - Lesson 21  <br> HTML Templates and Routes | Feb 1st - Lesson 22 <br> Forms | Feb 2nd - Lesson 23 <br> Data | Feb 3rd - Lesson 24 <br> State Management | 
+| Jan 2nd <br> OFF <br> HAPPY NEW YEAR | Jan 3rd <br> Lesson 01 <br> Intro to Programming | Jan 4th <br> Lesson 02 <br> Intro to GitHub | Jan 5th <br> Lesson 03 <br> Accessibility | Jan 6th <br> Lesson 04 <br> Data Types | 
+| Jan 9th <br> Lesson 05 <br> Functions and Methods | Jan 10th <br> Lesson 06  <br> Making Decisions | Jan 11th <br> Lesson 07 <br> Arrays and Loops | Jan 12th <br> Lesson 08 <br> HTML | Jan 13th <br> Lesson 09 <br> CSS|
+| Jan 16th <br> Lesson 10 <br> JS Closures | Jan 17th <br> Lesson 11  <br>  Event Driven Programming | Jan 18th <br> Lesson 12 <br> About Browsers | Jan 19th <br> Lesson 13 <br> APIs, Forms, and Local Storage | Jan 20th <br> Lesson 14 <br> Background Tasks and Performance| 
+| Jan 23rd <br> Lesson 15 <br> Intro to Game Development | Jan 24th <br> Lesson 16  <br> Drawing to Canvas | Jan 25th <br> Lesson 17 <br> Moving Elements Around | Jan 26th <br> Lesson 18 <br> Collision Detection | Jan 27th <br> Lesson 19 <br> Keeping Score | 
+| Jan 30th <br> Lesson 20 <br> The Ending Condition | Jan 31st <br> Lesson 21  <br> HTML Templates and Routes | Feb 1st <br> Lesson 22 <br> Forms | Feb 2nd <br> Lesson 23 <br> Data | Feb 3rd <br> Lesson 24 <br> State Management | 
 
 
 [![GitHub license](https://img.shields.io/github/license/microsoft/Web-Dev-For-Beginners.svg)](https://github.com/microsoft/Web-Dev-For-Beginners/blob/master/LICENSE)

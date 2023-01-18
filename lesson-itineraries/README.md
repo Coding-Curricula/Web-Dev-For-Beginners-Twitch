@@ -146,3 +146,17 @@ Homepage -
  - Add icon to navbar
  - set min/max heights on cards
  - about page: about us, about me, current project, icon section, past projects
+
+#### January 18th - Lesson 12 - About Browsers
+
+Update Logs
+
+Update Schedule
+
+Browser Lecture
+
+Homepage changes 
+- add a line of text under github 
+- favicon fix
+- remove image and add h1 and p elements
+- polish on the about page
