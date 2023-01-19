@@ -156,6 +156,17 @@ Update Schedule
 Browser Lecture
 
 Homepage changes 
+
+
+#### January 19th - Lesson 13 - APIs, Forms, and Local Storage
+
+Update Logs
+
+APIs, Forms, and Local Storage Lecture
+
+Browser Extension Project
+
+Homepage changes
 - add a line of text under github 
 - favicon fix
 - remove image and add h1 and p elements
