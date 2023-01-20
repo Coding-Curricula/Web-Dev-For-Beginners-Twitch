@@ -171,3 +171,16 @@ Homepage changes
 - favicon fix
 - remove image and add h1 and p elements
 - polish on the about page
+
+### January 20th - Lesson 14 - Background Performance 
+
+Update Logs
+
+Browser Background Stuff Lecture
+
+Homepage
+- add contact form to homepage
+- make HERO button go somewhere
+- add icons to about sections
+- make some icons wiggle and bounce
+- start theming
