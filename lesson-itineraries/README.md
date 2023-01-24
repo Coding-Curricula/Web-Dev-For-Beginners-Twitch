@@ -197,3 +197,14 @@ Homepage
 - format about
 - format contact
 - blog post fetching
+
+#### January 24th - Lesson 16 - Drawing to Canvas
+
+Update Logs
+
+Drawing to Canvas
+
+Homepage
+- cascading floating cards - changing the animation and adding 3D float shadow
+- blog post rendering
+- blog post routing
