@@ -172,7 +172,7 @@ Homepage changes
 - remove image and add h1 and p elements
 - polish on the about page
 
-### January 20th - Lesson 14 - Background Performance 
+#### January 20th - Lesson 14 - Background Performance 
 
 Update Logs
 
@@ -184,3 +184,42 @@ Homepage
 - add icons to about sections
 - make some icons wiggle and bounce
 - start theming
+
+#### January 23rd - Lesson 15 - Introduction to Game Dev
+
+Intro to Game Dev Lecture
+
+Update Logs
+
+Homepage
+- toast success message
+- wiggle in icons on homepage
+- format about
+- format contact
+- blog post fetching
+
+#### January 24th - Lesson 16 - Drawing to Canvas
+
+Update Logs
+
+Drawing to Canvas
+
+Homepage
+- cascading floating cards - changing the animation and adding 3D float shadow
+- blog post rendering
+- blog post routing
+
+#### January 25th - Lesson 17 - Moving Around
+
+Update Logs
+
+Moving Around on Canvas Lecutre
+
+Homepage 
+- adding an email section and input for mail signup
+- Latest Courses
+- Past Courses
+- Sell Digital Product
+- pointing down for more information
+- using emojis
+- figure out lead magnet
