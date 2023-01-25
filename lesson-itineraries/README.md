@@ -208,3 +208,18 @@ Homepage
 - cascading floating cards - changing the animation and adding 3D float shadow
 - blog post rendering
 - blog post routing
+
+#### January 25th - Lesson 17 - Moving Around
+
+Update Logs
+
+Moving Around on Canvas Lecutre
+
+Homepage 
+- adding an email section and input for mail signup
+- Latest Courses
+- Past Courses
+- Sell Digital Product
+- pointing down for more information
+- using emojis
+- figure out lead magnet
