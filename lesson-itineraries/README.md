@@ -219,6 +219,18 @@ Homepage
 - adding an email section and input for mail signup
 - Latest Courses
 - Past Courses
+
+
+#### January 26th - Lesson 18 - Collision Detection
+
+Update Logs
+
+Collission Detection coding
+
+Homepage
+- add blog dynamic routing
+- next project "The Odin Project"
+- form validation
 - Sell Digital Product
 - pointing down for more information
 - using emojis
