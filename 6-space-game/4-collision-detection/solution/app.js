@@ -1,4 +1,3 @@
-// @ts-check
 class EventEmitter {
 	constructor() {
 		this.listeners = {};
@@ -60,7 +59,7 @@ class Hero extends GameObject {
 		let id = setInterval(() => {
 			if (this.cooldown > 0) {
 				this.cooldown -= 100;
-				if(this.cooldown === 0) {
+				if (this.cooldown === 0) {
 					clearInterval(id);
 				}
 			}
@@ -123,9 +122,7 @@ function loadTexture(path) {
 	});
 }
 
-function intersectRect(r1, r2) {
-	return !(r2.left > r1.right || r2.right < r1.left || r2.top > r1.bottom || r2.bottom < r1.top);
-}
+
 
 const Messages = {
 	KEY_EVENT_UP: 'KEY_EVENT_UP',
@@ -146,6 +143,10 @@ let heroImg,
 	gameObjects = [],
 	hero,
 	eventEmitter = new EventEmitter();
+
+function intersectRect(r1, r2) {
+	return !(r2.left > r1.right || r2.right < r1.left || r2.top > r1.bottom || r2.bottom < r1.top);
+}
 
 // EVENTS
 let onKeyDown = function (e) {
@@ -203,6 +204,10 @@ function createHero() {
 	gameObjects.push(hero);
 }
 
+function drawGameObjects(ctx) {
+	gameObjects.forEach((go) => go.draw(ctx));
+}
+
 function updateGameObjects() {
 	const enemies = gameObjects.filter((go) => go.type === 'Enemy');
 	const lasers = gameObjects.filter((go) => go.type === 'Laser');
@@ -228,9 +233,7 @@ function updateGameObjects() {
 	gameObjects = gameObjects.filter((go) => !go.dead);
 }
 
-function drawGameObjects(ctx) {
-	gameObjects.forEach((go) => go.draw(ctx));
-}
+
 
 function initGame() {
 	gameObjects = [];
