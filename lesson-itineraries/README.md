@@ -157,7 +157,6 @@ Browser Lecture
 
 Homepage changes 
 
-
 #### January 19th - Lesson 13 - APIs, Forms, and Local Storage
 
 Update Logs
@@ -220,7 +219,6 @@ Homepage
 - Latest Courses
 - Past Courses
 
-
 #### January 26th - Lesson 18 - Collision Detection
 
 Update Logs
@@ -230,6 +228,15 @@ Collission Detection coding
 Homepage
 - add blog dynamic routing
 - next project "The Odin Project"
+
+#### January 27th - Lesson 19 - Keeping Score
+
+Update Logs
+
+Keeping Score lecture
+
+Homepage
+- span whole desktop projects component 
 - form validation
 - Sell Digital Product
 - pointing down for more information
