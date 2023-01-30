@@ -1,4 +1,4 @@
-// @ts-check
+/* It allows you to register functions to be called when a message is emitted. */
 class EventEmitter {
 	constructor() {
 		this.listeners = {};
@@ -18,6 +18,7 @@ class EventEmitter {
 	}
 }
 
+/* It's a class that represents a game object */
 class GameObject {
 	constructor(x, y) {
 		this.x = x;
@@ -29,10 +30,18 @@ class GameObject {
 		this.img = undefined;
 	}
 
+	/**
+	 * Draw the image at the x and y coordinates, with the width and height of the image.
+	 * @param ctx - The context of the canvas.
+	 */
 	draw(ctx) {
 		ctx.drawImage(this.img, this.x, this.y, this.width, this.height);
 	}
 
+	/**
+	 * It returns an object with the top, left, bottom, and right coordinates of the game object
+	 * @returns An object with the top, left, bottom, and right properties.
+	 */
 	rectFromGameObject() {
 		return {
 			top: this.y,
@@ -50,6 +59,8 @@ class Hero extends GameObject {
 		this.type = 'Hero';
 		this.speed = { x: 0, y: 0 };
 		this.cooldown = 0;
+		this.life = 3;
+		this.points = 0;
 	}
 	fire() {
 		gameObjects.push(new Laser(this.x + 45, this.y - 10));
@@ -58,7 +69,7 @@ class Hero extends GameObject {
 		let id = setInterval(() => {
 			if (this.cooldown > 0) {
 				this.cooldown -= 100;
-				if(this.cooldown === 0) {
+				if (this.cooldown === 0) {
 					clearInterval(id);
 				}
 			}
@@ -128,6 +139,7 @@ const Messages = {
 let heroImg,
 	enemyImg,
 	laserImg,
+	lifeImg,
 	canvas,
 	ctx,
 	gameObjects = [],
@@ -188,6 +200,41 @@ function createHero() {
 	gameObjects.push(hero);
 }
 
+function showScore() {
+	ctx.font = '30px Arial';
+	ctx.fillStyle = 'white';
+	ctx.fillText('Score: ' + hero.score, 10, 50);
+	gameObjects.forEach((go) => {
+		if (go.type === 'Enemy') {
+			ctx.fillText('Enemies: ' + gameObjects.filter((go) => go.type === 'Enemy').length, 10, 80);
+		}
+	});
+
+}
+
+function drawLife() {
+	// TODO, 35, 27
+	const START_POS = canvas.width - 180;
+	for (let i = 0; i < hero.life; i++) {
+		ctx.drawImage(
+			lifeImg,
+			START_POS + (45 * (i + 1)),
+			canvas.height - 37);
+	}
+}
+
+function drawPoints() {
+	ctx.font = "30px Arial";
+	ctx.fillStyle = "red";
+	ctx.textAlign = "left";
+	drawText("Points: " + hero.points, 10, canvas.height - 20);
+}
+
+function drawText(message, x, y) {
+	ctx.fillText(message, x, y);
+}
+
+
 function updateGameObjects() {
 	const enemies = gameObjects.filter((go) => go.type === 'Enemy');
 	const lasers = gameObjects.filter((go) => go.type === 'Laser');
@@ -200,6 +247,12 @@ function updateGameObjects() {
 					second: m,
 				});
 			}
+			enemies.forEach(enemy => {
+				const heroRect = hero.rectFromGameObject();
+				if (intersectRect(heroRect, enemy.rectFromGameObject())) {
+					eventEmitter.emit(Messages.COLLISION_ENEMY_HERO, { enemy });
+				}
+			})
 		});
 	});
 
@@ -214,6 +267,8 @@ function initGame() {
 	gameObjects = [];
 	createEnemies();
 	createHero();
+	showScore();
+
 
 	eventEmitter.on(Messages.KEY_EVENT_UP, () => {
 		hero.y -= 5;
@@ -250,8 +305,11 @@ window.onload = async () => {
 	heroImg = await loadTexture('assets/player.png');
 	enemyImg = await loadTexture('assets/enemyShip.png');
 	laserImg = await loadTexture('assets/laserRed.png');
+	lifeImg = await loadTexture("assets/life.png");
 
 	initGame();
+	drawPoints();
+	drawLife();
 	let gameLoopId = setInterval(() => {
 		ctx.clearRect(0, 0, canvas.width, canvas.height);
 		ctx.fillStyle = 'black';
