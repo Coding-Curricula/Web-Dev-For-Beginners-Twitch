@@ -236,9 +236,24 @@ Update Logs
 Keeping Score lecture
 
 Homepage
-- span whole desktop projects component 
-- form validation
+- span whole desktop projects component x
+- form validation x 
+
+
+#### January 30th - Lesson 20 - Ending Condition
+
+Update Logs
+
+Ending Condition
+
+Homepage 
+- larger hero section
+- larger blog cards
+- clean about 
+- fix footer
+- fix history bug
 - Sell Digital Product
 - pointing down for more information
 - using emojis
 - figure out lead magnet
+ 
