@@ -61,6 +61,7 @@ class Hero extends GameObject {
 	fire() {
 		gameObjects.push(new Laser(this.x + 45, this.y - 10));
 		this.cooldown = 500;
+		playAudio();
 
 		let id = setInterval(() => {
 			if (this.cooldown > 0) {
@@ -155,6 +156,12 @@ let heroImg,
 	hero,
 	eventEmitter = new EventEmitter();
 
+
+	function playAudio() {
+		var audio = new Audio('assets/blaster-2-81267.mp3');
+		audio.play();
+	}
+
 // EVENTS
 let onKeyDown = function (e) {
 	// console.log(e.keyCode);
@@ -165,6 +172,7 @@ let onKeyDown = function (e) {
 		case 40: // Arrow keys
 		case 32:
 			e.preventDefault();
+
 			break; // Space
 		default:
 			break; // do not block other keys
@@ -268,6 +276,7 @@ function initGame() {
 	eventEmitter.on(Messages.KEY_EVENT_SPACE, () => {
 		if (hero.canFire()) {
 			hero.fire();
+
 		}
 		// console.log('cant fire - cooling down')
 	});
