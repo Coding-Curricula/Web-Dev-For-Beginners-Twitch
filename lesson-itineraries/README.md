@@ -256,4 +256,5 @@ Homepage
 - pointing down for more information
 - using emojis
 - figure out lead magnet
+- put text from navbar on the right
  
