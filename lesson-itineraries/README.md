@@ -247,12 +247,24 @@ Update Logs
 Ending Condition
 
 Homepage 
-- larger hero section
-- larger blog cards
-- clean about 
-- fix footer
-- fix history bug
+- larger hero section x
+- larger blog cards x
+- fix footer x
+- fix history bug x
+
+
+#### January 31st - Lesson 21 - HTML Templates and Routes
+
+Update Logs
+
+HTML Templates lesson
+
+Homepage
+- href on curricula images
+- SEO tags
+- email signup component
 - Sell Digital Product
+- clean about 
 - pointing down for more information
 - using emojis
 - figure out lead magnet
