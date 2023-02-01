@@ -260,13 +260,18 @@ Update Logs
 HTML Templates lesson
 
 Homepage
-- href on curricula images
+- href on curricula images x
+
+ 
+ #### February 1st - Lesson 22 - HTML Forms
+
+ Update Logs
+
+ Forms Lesson
+
+ Homepage
 - SEO tags
 - email signup component
-- Sell Digital Product
-- clean about 
-- pointing down for more information
+- Sell Digital Product - getting into tech, AI coding companions
 - using emojis
 - figure out lead magnet
-- put text from navbar on the right
- 
