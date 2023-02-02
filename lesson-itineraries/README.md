@@ -270,7 +270,17 @@ Homepage
  Forms Lesson
 
  Homepage
-- SEO tags
+- SEO tags x 
+
+
+#### February 2nd - Lesson 23 - DATA
+
+Update logs
+
+Data Lesson
+
+Homepage 
+- carousel for the past (mswdfb), present (odin), and future projects (backend or data science)... vps aws linode google cloud ccsp certification
 - email signup component
 - Sell Digital Product - getting into tech, AI coding companions
 - using emojis
