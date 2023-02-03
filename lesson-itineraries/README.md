@@ -285,3 +285,15 @@ Homepage
 - Sell Digital Product - getting into tech, AI coding companions
 - using emojis
 - figure out lead magnet
+
+#### February 3rd - Lesson 24 - State Management - FINAL LESSON
+
+Update Logs
+
+State Lesson
+
+Homepage 
+- carousel
+- find next next curriculum 
+    - past microsoft web dev, present odin, future ??? data science or MySQL course or Node.js/Express.js before SQL
+    - 
